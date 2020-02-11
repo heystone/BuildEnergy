@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="diannao" unicode="&#59035;" d="M864 768l-704 0C140.8 768 128 755.2 128 736l0-512C128 204.8 140.8 192 160 192l236.8 0 0-128L256 64l0-64 512 0 0 64L627.2 64l0 128 236.8 0c19.2 0 32 12.8 32 32l0 512C896 755.2 883.2 768 864 768zM864 256c0-19.2-12.8-32-32-32L192 224c-19.2 0-32 12.8-32 32L160 704c0 19.2 12.8 32 32 32l640 0c19.2 0 32-12.8 32-32L864 256z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
